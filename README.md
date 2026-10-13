@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,100:0EA5E9&height=180&section=header&text=Emir%20M%C4%B1zrakl%C4%B1&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=AI-assisted%20full-stack%20%26%20game%20developer&descAlignY=72" width="100%" alt="Emir Mızraklı" />
+<img src="banner.svg" width="100%" alt="Emir Mızraklı — AI-assisted full-stack & game developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=38BDF8&width=640&lines=Builds+from+scratch%2C+ships+to+production;TypeScript+%C2%B7+React+%C2%B7+React+Native+%C2%B7+Unity%2FC%23;Trains+its+own+language+model+in+the+browser" alt="what I do" />
 
